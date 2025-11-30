@@ -11,7 +11,7 @@
     "size": "0.3",
     "history": {
       "V4.9.80": "1、新增 pnpm-lock.yaml 以跟踪依赖项并更新 .gitignore <br> 2、新增 9.9.25-42905 (x64/Win) 和 6.9.86-42905 (arm64/Mac) 版本支持"
-    }
+    },
   }
   "fpk-dnsmgr": {
     "display_name": "彩虹聚合DNS管理系统",
