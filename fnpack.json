@@ -11,14 +11,13 @@
     "install_type": "系统空间",
     "size": "42.5",
     "history": {
-      "V4.9.80": "1、新增 pnpm-lock.yaml 以跟踪依赖项并更新 .gitignore
-2、新增 9.9.25-42905 (x64/Win) 和 6.9.86-42905 (arm64/Mac) 版本支持"
+      "V4.9.80": "1、新增 pnpm-lock.yaml 以跟踪依赖项并更新 .gitignore <br> 2、新增 9.9.25-42905 (x64/Win) 和 6.9.86-42905 (arm64/Mac) 版本支持"
     }
   }
   "fpk-dnsmgr": {
     "display_name": "NapCatQQ",
-    "desc": "彩虹聚合DNS管理系统
-desc                  = 彩虹聚合DNS管理系统 是一款基于ThinkPHP开发的网站程序，可实现在单一网站内管理多个平台的域名解析，目前已支持的域名解析平台有：阿里云、腾讯云、华为云、百度云、西部数码、火山引擎、DNSLA、CloudFlare、Namesilo、PowerDNS",
+    "desc": "彩虹聚合DNS管理系统"
+    "desc"                  = "彩虹聚合DNS管理系统 是一款基于ThinkPHP开发的网站程序，可实现在单一网站内管理多个平台的域名解析，目前已支持的域名解析平台有：阿里云、腾讯云、华为云、百度云、西部数码、火山引擎、DNSLA、CloudFlare、Namesilo、PowerDNS",
     "labels": "工具,效率",
     "version": "2.11",
     "author": "moxyis",
