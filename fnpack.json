@@ -26,5 +26,38 @@
     "history": {
        "V2.11": "JS、CSS本地化"
     }
+  },
+  "fpk-zflie": {
+    "display_name": "ZFile",
+    "desc": "基于 Java 的在线网盘程序，支持对接 S3、OneDrive、SharePoint、又拍云、本地存储、FTP 等存储源，支持在线浏览图片、播放音视频，文本文件等文件类型",
+    "labels": "下载,网盘,同步",
+    "version": "4.5.0",
+    "author": "moxyis",
+    "author_url": "https://github.com/moxyis",
+    "bug_report_url": "https://github.com/moxyis/FnDepot/issues",
+    "install_type": "系统空间",
+    "size": "0.3",
+    "history": {
+       "V4.5.0": "新功能：<br>
+分享文件/文件夹夹功能(默认管理员包含此权限，其他用户需手动分配权限)<br>
+登录安全入口功能，保护登录页面安全<br>
+优化:<br>
+打包下载功能优化(支持打包文件夹, 支持打包下载进度显示)<br>
+增加下载确认弹窗增加开关功能(后台-显示设置-XX下载确认弹窗)<br>
+二维码支持下载为 png<br>
+完善上传失败的提示信息<br>
+优化存储源根目录显示 0B 的问题<br>
+优化页面显示<br>
+BUG 修复:<br>
+修复 WebDAV 新建文件夹异常的 bug<br>
+修复 WebDAV 存储源获取单个文件/文件夹时的 bug<br>
+修复 open115 启用代理下载 bug<br>
+修复对服务器地址检测的 bug<br>
+S3 存储改为仅下载使用加速域名，避免某些厂商不支持加速域名上传的 bug<br>
+修复本地存储/代理下载返回的文件名在 safari 上乱码的 bug<br>
+修复时间段选择器表单重置未清空的 bug<br>
+修复从画廊模式回到存储源列表时，未关闭画廊模式的 bug<br>
+修复点击 OAuth2 登录图标弹窗预览的 bug<br>"
+    }
   }
 }
