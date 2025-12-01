@@ -40,5 +40,19 @@
     "history": {
        "V4.5.0": "https://docs.zfile.vip/changelog/os"
     }
+  },
+  "fpk-panindex": {
+    "display_name": "PanIndex",
+    "desc": "PanIndex是一个简易的网盘目录列表.跨平台、易部署、多模式，多账户、多主题、下载直链、防盗链.目前支持的网盘:本地目录、天翼云网盘、teambition盘（个人、项目、国际服）、阿里云盘、115网盘、123云盘、OneDrive. 本套件默认帐号：admin 密码：PanIndex",
+    "labels": "下载,网盘,同步",
+    "version": "3.1.5",
+    "author": "moxyis",
+    "author_url": "https://github.com/moxyis",
+    "bug_report_url": "https://github.com/moxyis/FnDepot/issues",
+    "install_type": "系统空间",
+    "size": "15",
+    "history": {
+       "V3.1.5": "https://github.com/px-org/PanIndex/releases/tag/v3.1.5"
+    }
   }
 }
