@@ -24,7 +24,7 @@
     "install_type": "系统空间",
     "size": "0.3",
     "history": {
-       "V2.11": "JS、CSS本地化"
+      "V2.11": "JS、CSS本地化"
     }
   },
   "fpk-zflie": {
@@ -38,7 +38,7 @@
     "install_type": "系统空间",
     "size": "0.3",
     "history": {
-       "V4.5.0": "https://docs.zfile.vip/changelog/os"
+      "V4.5.0": "https://docs.zfile.vip/changelog/os"
     }
   },
   "fpk-panindex": {
@@ -52,7 +52,7 @@
     "install_type": "系统空间",
     "size": "15",
     "history": {
-       "V3.1.5": "https://github.com/px-org/PanIndex/releases/tag/v3.1.5"
+      "V3.1.5": "https://github.com/px-org/PanIndex/releases/tag/v3.1.5"
     }
   },
   "fpk-cloudreve": {
@@ -66,7 +66,7 @@
     "install_type": "系统空间",
     "size": "34.5",
     "history": {
-       "V4.10.1": "https://github.com/cloudreve/Cloudreve/releases"
+      "V4.10.1": "https://github.com/cloudreve/Cloudreve/releases"
     }
   },
   "fpk-oneapi": {
@@ -80,7 +80,7 @@
     "install_type": "系统空间",
     "size": "0.3",
     "history": {
-       "V4.10.1": "https://github.com/cloudreve/Cloudreve/releases"
+      "V4.10.1": "https://github.com/cloudreve/Cloudreve/releases"
     }
   }
 }
