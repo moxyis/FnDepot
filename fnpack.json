@@ -54,5 +54,33 @@
     "history": {
        "V3.1.5": "https://github.com/px-org/PanIndex/releases/tag/v3.1.5"
     }
+  },
+  "fpk-cloudreve": {
+    "display_name": "Cloudreve",
+    "desc": "Cloudreve 可以让您快速搭建起公私兼备的网盘系统。Cloudreve 在底层支持不同的云存储平台，用户在实际使用时无须关心物理存储方式。你可以使用 Cloudreve 搭建个人用网盘、文件分享系统，亦或是针对大小团体的公有云系统。",
+    "labels": "下载,网盘,同步",
+    "version": "4.10.1",
+    "author": "moxyis",
+    "author_url": "https://github.com/moxyis",
+    "bug_report_url": "https://github.com/moxyis/FnDepot/issues",
+    "install_type": "系统空间",
+    "size": "15",
+    "history": {
+       "V4.10.1": "https://github.com/cloudreve/Cloudreve/releases"
+    }
+  },
+  "fpk-oneapi": {
+    "display_name": "One API",
+    "desc": "LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。初始账号用户名为 root，密码为 123456",
+    "labels": "工具",
+    "version": "4.10.1",
+    "author": "moxyis",
+    "author_url": "https://github.com/moxyis",
+    "bug_report_url": "https://github.com/moxyis/FnDepot/issues",
+    "install_type": "系统空间",
+    "size": "15",
+    "history": {
+       "V4.10.1": "https://github.com/cloudreve/Cloudreve/releases"
+    }
   }
 }
