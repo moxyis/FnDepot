@@ -59,7 +59,7 @@
     "display_name": "Cloudreve",
     "desc": "Cloudreve 可以让您快速搭建起公私兼备的网盘系统。Cloudreve 在底层支持不同的云存储平台，用户在实际使用时无须关心物理存储方式。你可以使用 Cloudreve 搭建个人用网盘、文件分享系统，亦或是针对大小团体的公有云系统。",
     "labels": "下载,网盘,同步",
-    "version": "4.10.0",
+    "version": "4.10.1",
     "author": "moxyis",
     "author_url": "https://github.com/moxyis",
     "bug_report_url": "https://github.com/moxyis/FnDepot/issues",
