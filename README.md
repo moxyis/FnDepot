@@ -19,6 +19,7 @@
 ## 注意/说明
 
 Cloudreve是通过Github-Actions进行每天自动化检测最新Cloudreve正式版本进行打包推送到本仓库，上方的应用清单的Cloudreve对应版本号暂时不会自动更新
+脚本自动化仓库：https://github.com/moxyis/fpk-cloudreve
 
 ## 支持与反馈
 
