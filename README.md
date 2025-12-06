@@ -10,7 +10,7 @@
 | **ZFile**               | 4.5.0  | zhaojun1998/https://github.com/zfile-dev/zfile       |
 | **NapCatQQ**            | 4.9.80 | NapNeko/https://github.com/NapNeko/NapCatQQ          |
 | **PanIndex**            | 3.1.5  | libsgh/https://github.com/px-org/PanIndex            |
-| **Cloudreve**           | 4.10.1 | Cloudreve/https://cloudreve.org/                     |
+| **Cloudreve**           | 4.10.0 | Cloudreve/https://cloudreve.org/                     |
 | **One API**             | 0.6.10 | songquanpeng/https://github.com/songquanpeng/one-api |
 |                         |        |                                                      |
 |                         |        |                                                      |
