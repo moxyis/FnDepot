@@ -2,19 +2,23 @@
 
 > **最后更新**: 2025-12-07
 
-## 1. 应用清单
+## 应用清单
 
-| 应用名称                | 版本号                   | 开发者/GitHub仓库                                    |
-| :---------------------- | :----------------------- | :--------------------------------------------------- |
-| **彩虹聚合DNS管理系统** | 2.11                     | 消失的彩虹海/https://github.com/netcccyun/dnsmgr     |
-| **ZFile**               | 4.5.0                    | zhaojun1998/https://github.com/zfile-dev/zfile       |
-| **NapCatQQ**            | 4.9.80                   | NapNeko/https://github.com/NapNeko/NapCatQQ          |
-| **PanIndex**            | 3.1.5                    | libsgh/https://github.com/px-org/PanIndex            |
-| **Cloudreve**           | 通过脚本自动更新最新版本 | Cloudreve/https://cloudreve.org/                     |
-| **One API**             | 0.6.10                   | songquanpeng/https://github.com/songquanpeng/one-api |
-|                         |                          |                                                      |
-|                         |                          |                                                      |
-|                         |                          |                                                      |
+| 应用名称                | 版本号 | 开发者/GitHub仓库                                    |
+| :---------------------- | :----- | :--------------------------------------------------- |
+| **彩虹聚合DNS管理系统** | 2.11   | 消失的彩虹海/https://github.com/netcccyun/dnsmgr     |
+| **ZFile**               | 4.5.0  | zhaojun1998/https://github.com/zfile-dev/zfile       |
+| **NapCatQQ**            | 4.9.80 | NapNeko/https://github.com/NapNeko/NapCatQQ          |
+| **PanIndex**            | 3.1.5  | libsgh/https://github.com/px-org/PanIndex            |
+| **Cloudreve**           | 4.10.1 | Cloudreve/https://cloudreve.org/                     |
+| **One API**             | 0.6.10 | songquanpeng/https://github.com/songquanpeng/one-api |
+|                         |        |                                                      |
+|                         |        |                                                      |
+|                         |        |                                                      |
+
+## 注意/说明
+
+Cloudreve是通过Github-Actions进行每天自动化检测最新Cloudreve正式版本进行打包推送到本仓库，上方的应用清单的Cloudreve对应版本号暂时不会自动更新
 
 ## 支持与反馈
 
