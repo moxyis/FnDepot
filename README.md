@@ -1,20 +1,20 @@
 # FnDepot 应用源-moxyis
 
-> **最后更新**: 2025-12-2
+> **最后更新**: 2025-12-07
 
 ## 1. 应用清单
 
-| 应用名称                | 版本号 | 开发者/GitHub仓库                                |
-| :---------------------- | :----- | :----------------------------------------------- |
-| **彩虹聚合DNS管理系统** | 2.11   | 消失的彩虹海/https://github.com/netcccyun/dnsmgr |
-| **ZFile**               | 4.5.0  | zhaojun1998/https://github.com/zfile-dev/zfile   |
-| **NapCatQQ**            | 4.9.80 | NapNeko/https://github.com/NapNeko/NapCatQQ      |
-| **PanIndex**            | 3.1.5  | libsgh/https://github.com/px-org/PanIndex        |
-|                         |        |                                                  |
-|                         |        |                                                  |
-|                         |        |                                                  |
-|                         |        |                                                  |
-|                         |        |                                                  |
+| 应用名称                | 版本号                   | 开发者/GitHub仓库                                    |
+| :---------------------- | :----------------------- | :--------------------------------------------------- |
+| **彩虹聚合DNS管理系统** | 2.11                     | 消失的彩虹海/https://github.com/netcccyun/dnsmgr     |
+| **ZFile**               | 4.5.0                    | zhaojun1998/https://github.com/zfile-dev/zfile       |
+| **NapCatQQ**            | 4.9.80                   | NapNeko/https://github.com/NapNeko/NapCatQQ          |
+| **PanIndex**            | 3.1.5                    | libsgh/https://github.com/px-org/PanIndex            |
+| **Cloudreve**           | 通过脚本自动更新最新版本 | Cloudreve/https://cloudreve.org/                     |
+| **One API**             | 0.6.10                   | songquanpeng/https://github.com/songquanpeng/one-api |
+|                         |                          |                                                      |
+|                         |                          |                                                      |
+|                         |                          |                                                      |
 
 ## 支持与反馈
 
