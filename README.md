@@ -4,22 +4,26 @@
 
 ## 应用清单
 
-| 应用名称                | 版本号 | 开发者/GitHub仓库                                    |
-| :---------------------- | :----- | :--------------------------------------------------- |
-| **彩虹聚合DNS管理系统** | 2.11   | 消失的彩虹海/https://github.com/netcccyun/dnsmgr     |
-| **ZFile**               | 4.5.0  | zhaojun1998/https://github.com/zfile-dev/zfile       |
-| **NapCatQQ**            | 4.9.80 | NapNeko/https://github.com/NapNeko/NapCatQQ          |
-| **PanIndex**            | 3.1.5  | libsgh/https://github.com/px-org/PanIndex            |
-| **Cloudreve**           | 4.10.1| Cloudreve/https://cloudreve.org/                     |
-| **One API**             | 0.6.10 | songquanpeng/https://github.com/songquanpeng/one-api |
-|                         |        |                                                      |
-|                         |        |                                                      |
-|                         |        |                                                      |
+| 应用名称                | 版本号 | 开发者/GitHub仓库                                    |备注|
+| :---------------------- | :----- | :--------------------------------------------------- |:--|
+| **彩虹聚合DNS管理系统** | 2.11   | 消失的彩虹海/https://github.com/netcccyun/dnsmgr     |Docker|
+| **ZFile**               | 4.5.0  | zhaojun1998/https://github.com/zfile-dev/zfile       |Docker|
+| **NapCatQQ**            | 4.9.80 | NapNeko/https://github.com/NapNeko/NapCatQQ          |Docker|
+| **PanIndex**            | 3.1.5  | libsgh/https://github.com/px-org/PanIndex            ||
+| **Cloudreve**           | 4.10.1| Cloudreve/https://cloudreve.org/                     ||
+| **One API**             | 0.6.10 | songquanpeng/https://github.com/songquanpeng/one-api |Docker|
+|                         |        |                                                      ||
+|                         |        |                                                      ||
+|                         |        |                                                      ||
 
 ## 注意/说明
 
-Cloudreve是通过Github-Actions进行每天自动化检测最新Cloudreve正式版本进行打包推送到本仓库
-脚本自动化仓库：https://github.com/moxyis/fpk-cloudreve
+1. Cloudreve是通过Github-Actions进行每天自动化检测最新Cloudreve正式版本进行打包推送到本仓库
+
+   脚本自动化仓库：https://github.com/moxyis/fpk-cloudreve
+
+2. 备注标着“**Docker**”的应用需要更新的话，在飞牛的Docker应用里的容器先停止容器，然后在本地镜像里更新对应的镜像
+
 
 ## 支持与反馈
 
