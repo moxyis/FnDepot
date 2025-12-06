@@ -82,5 +82,19 @@
     "history": {
       "V0.0.1": "第一版版本的飞牛应用Docker"
     }
+  },
+  "fpk-omnibox": {
+    "display_name": "OmniBox",
+    "desc": "OmniBox 是一个功能强大的影视综合站，以「聚合」为核心的家庭影视系统，支持采集站影视、网盘资源、电视源和各大直播源。解决了资源分散、查找困难的问题，为影视爱好者提供一站式的观影解决方案。另外它也支持弹幕API以及TMDB API接入，播放页面可以查看分季分集的海报、剧照、剧情概要、演员表、评分等。",
+    "labels": "影视,TV",
+    "version": "1.3.18",
+    "author": "moxyis",
+    "author_url": "https://github.com/moxyis",
+    "bug_report_url": "https://github.com/moxyis/FnDepot/issues",
+    "install_type": "系统空间",
+    "size": "0.3",
+    "history": {
+      "v1.3.18": "第一版版本的飞牛应用Docker"
+    }
   }
 }
