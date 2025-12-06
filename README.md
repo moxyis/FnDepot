@@ -18,9 +18,7 @@
 
 ## 注意/说明
 
-1. Cloudreve是通过Github-Actions进行每天自动化检测最新Cloudreve正式版本进行打包推送到本仓库
-
-   脚本自动化仓库：https://github.com/moxyis/fpk-cloudreve
+1. Cloudreve是通过Github-Actions进行每天自动化检测最新Cloudreve正式版本进行打包推送到本仓库。脚本自动化仓库：https://github.com/moxyis/fpk-cloudreve
 
 2. 备注标着“**Docker**”的应用需要更新的话，在飞牛的Docker应用里的容器先停止容器，然后在本地镜像里更新对应的镜像
 
