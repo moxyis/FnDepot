@@ -3,7 +3,7 @@
     "display_name": "NapCatQQ",
     "desc": "基于 TypeScript 构建的 Bot 框架，通过相应的启动器或者框架，主动调用 QQ Node 模块提供给客户端的接口，实现 Bot 的功能。默认登录Token：qq123456",
     "labels": "工具",
-    "version": "4.9.80",
+    "version": "2.2.29",
     "author": "moxyis",
     "author_url": "https://github.com/moxyis",
     "bug_report_url": "https://github.com/moxyis/FnDepot/issues",
