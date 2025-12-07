@@ -12,7 +12,6 @@
 | **PanIndex**            | 3.1.5  | libsgh/https://github.com/px-org/PanIndex            ||
 | **Cloudreve**           | 4.10.1| Cloudreve/https://cloudreve.org/                     ||
 | **One API**             | 0.6.10 | songquanpeng/https://github.com/songquanpeng/one-api |Docker|
-| **OmniBox** | 1.3.18 | samqin123/https://github.com/samqin123/omnibox_sam |Docker|
 |                         |        |                                                      ||
 |                         |        |                                                      ||
 
