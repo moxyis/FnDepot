@@ -24,7 +24,8 @@
     "install_type": "系统空间",
     "size": "0.3",
     "history": {
-      "V2.11": "JS、CSS本地化"
+      "V2.11": "JS、CSS本地化",
+      "V2.12": "https://github.com/netcccyun/dnsmgr/releases/tag/2.12.0"
     }
   },
   "fpk-zflie": {
