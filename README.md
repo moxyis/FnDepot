@@ -1,12 +1,12 @@
 # FnDepot 应用源-moxyis
 
-> **最后更新**: 2025-12-07
+> **最后更新**: 2025-12-17
 
 ## 应用清单
 
 | 应用名称                | 版本号 | 开发者/GitHub仓库                                    |备注|
 | :---------------------- | :----- | :--------------------------------------------------- |:--|
-| **彩虹聚合DNS管理系统** | 2.11   | 消失的彩虹海/https://github.com/netcccyun/dnsmgr     |Docker|
+| **彩虹聚合DNS管理系统** | 2.12   | 消失的彩虹海/https://github.com/netcccyun/dnsmgr     |Docker|
 | **ZFile**               | 4.5.0  | zhaojun1998/https://github.com/zfile-dev/zfile       |Docker|
 | **NapCatQQ**            | 4.9.81| NapNeko/https://github.com/NapNeko/NapCatQQ          |Docker|
 | **PanIndex**            | 3.1.5  | libsgh/https://github.com/px-org/PanIndex            ||
