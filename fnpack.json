@@ -83,5 +83,19 @@
     "history": {
       "V0.0.1": "第一版版本的飞牛应用Docker"
     }
+  },
+  "fpk-xianyu": {
+    "display_name": "闲鱼管理系统",
+    "desc": "一个功能完整的闲鱼自动回复和管理系统，支持多用户、多账号管理，具备智能回复、自动发货、自动确认发货、商品管理等企业级功能。<br>默认账号：admin<br>默认密码：admin123",
+    "labels": "工具",
+    "version": "0.0.1",
+    "author": "moxyis",
+    "author_url": "https://github.com/moxyis",
+    "bug_report_url": "https://github.com/moxyis/FnDepot/issues",
+    "install_type": "工具",
+    "size": "0.3",
+    "history": {
+      "V0.0.1": "第一版版本的飞牛应用Docker"
+    }
   }
 }
