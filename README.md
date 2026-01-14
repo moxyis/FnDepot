@@ -12,7 +12,7 @@
 | **PanIndex**            | 3.1.5  | libsgh/https://github.com/px-org/PanIndex            ||
 | **Cloudreve**           | 4.10.1| Cloudreve/https://cloudreve.org/                     ||
 | **One API**             | 0.6.10 | songquanpeng/https://github.com/songquanpeng/one-api |Docker|
-|                         |        |                                                      ||
+| **闲鱼管理系统**        | 0.0.1 |  （待补充）                                                    |Docker|
 |                         |        |                                                      ||
 
 ## 注意/说明
