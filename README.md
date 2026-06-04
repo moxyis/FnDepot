@@ -8,7 +8,7 @@
 | :---------------------- | :----- | :--------------------------------------------------- |:--|
 | **彩虹聚合DNS管理系统** | 2.18 | https://github.com/netcccyun/dnsmgr/releases/tag/v2.18 | GitHub |
 | **ZFile**               | 4.5.0  | zhaojun1998/https://github.com/zfile-dev/zfile       |Docker|
-| **NapCatQQ**            | 4.18.4| NapNeko/https://github.com/NapNeko/NapCatQQ          |Docker|
+| **NapCatQQ**            | 4.18.5| NapNeko/https://github.com/NapNeko/NapCatQQ          |Docker|
 | **PanIndex**            | 3.1.5  | libsgh/https://github.com/px-org/PanIndex            ||
 | **Cloudreve** | 4.16.0 | https://github.com/cloudreve/Cloudreve | GitHub |
 | **One API**             | 0.6.10 | songquanpeng/https://github.com/songquanpeng/one-api |Docker|
