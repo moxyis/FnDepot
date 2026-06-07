@@ -10,7 +10,7 @@
 | **ZFile**               | 4.5.0  | zhaojun1998/https://github.com/zfile-dev/zfile       |Docker|
 | **NapCatQQ**            | 4.18.5| NapNeko/https://github.com/NapNeko/NapCatQQ          |Docker|
 | **PanIndex**            | 3.1.5  | libsgh/https://github.com/px-org/PanIndex            ||
-| **Cloudreve** | 4.16.0 | https://github.com/cloudreve/Cloudreve | GitHub |
+| **Cloudreve** | 4.16.1 | https://github.com/cloudreve/Cloudreve | GitHub |
 | **One API**             | 0.6.10 | songquanpeng/https://github.com/songquanpeng/one-api |Docker|
 | **闲鱼管理系统**        | 0.0.1 |  （待补充）                                                    |Docker|
 |                         |        |                                                      ||
