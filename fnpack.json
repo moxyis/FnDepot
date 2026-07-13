@@ -32,7 +32,7 @@
     "display_name": "ZFile",
     "desc": "基于 Java 的在线网盘程序，支持对接 S3、OneDrive、SharePoint、又拍云、本地存储、FTP 等存储源，支持在线浏览图片、播放音视频，文本文件等文件类型",
     "labels": "下载,网盘,同步",
-    "version": "4.5.0",
+    "version": "5.0.1",
     "distributor": "moxyis",
     "distributor_url": "https://github.com/moxyis",
     "bug_report_url": "https://github.com/moxyis/FnDepot/issues",
