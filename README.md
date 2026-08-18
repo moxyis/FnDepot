@@ -7,7 +7,7 @@
 | 应用名称                | 版本号 | 开发者/GitHub仓库                                    |备注|
 | :---------------------- | :----- | :--------------------------------------------------- |:--|
 | **彩虹聚合DNS管理系统** | 2.19 | https://github.com/netcccyun/dnsmgr/releases/tag/v2.19 | GitHub |
-| **ZFile**               | 5.0.5  | zhaojun1998/https://github.com/zfile-dev/zfile       |Docker|
+| **ZFile**               | 5.0.6  | zhaojun1998/https://github.com/zfile-dev/zfile       |Docker|
 | **NapCatQQ**            | 4.18.19| NapNeko/https://github.com/NapNeko/NapCatQQ          |Docker|
 | **PanIndex**            | 3.1.5  | libsgh/https://github.com/px-org/PanIndex            ||
 | **Cloudreve** | 4.18.0 | https://github.com/cloudreve/Cloudreve | GitHub |
