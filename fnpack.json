@@ -32,11 +32,12 @@
       ],
       "releases": {
         "4.18.37": {
-          "changelog": "迁移至 FnDepot V2 应用源；沿用原有 4.18.37 安装包。",
+          "changelog": "自动构建更新至 4.18.37",
           "packages": {
             "all": {
-              "download_url": "./fpk-napcatqq/fpk-napcatqq.fpk",
-              "size": 247317
+              "download_url": "./fpk-napcatqq/versions/fpk-napcatqq-v4.18.37.fpk",
+              "size": 247313,
+              "sha256": "3e133aaa0f4f9f0fabff78d187e79a377298e9aa25a78940fd88229a408fcdb7"
             }
           }
         }
