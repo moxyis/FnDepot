@@ -176,6 +176,21 @@
               "size": 35248630
             }
           }
+        },
+        "4.19.1": {
+          "changelog": "Cloudreve 自动构建版本 4.19.1",
+          "packages": {
+            "x86": {
+              "download_url": "./fpk-cloudreve/x86/fpk-cloudreve-x86-v4.19.1.fpk",
+              "size": 37566167,
+              "sha256": "60ad69e90d5840f6cc7e3347870a28e3465ea6ac602dba0216d7aa78cbb31a38"
+            },
+            "arm": {
+              "download_url": "./fpk-cloudreve/arm/fpk-cloudreve-arm-v4.19.1.fpk",
+              "size": 35299154,
+              "sha256": "d8f0eaae2a0bb0dbeb6a6f0d8334e66fecf7d9761e6f0e2c49ba9e876c3d23a6"
+            }
+          }
         }
       }
     },
