@@ -1,7 +1,7 @@
 {
   "schema_version": "2",
   "source_info": {
-    "name": "MoxYI FnDepot",
+    "name": "MoxYI",
     "author": "moxyis",
     "homepage": "https://github.com/moxyis/FnDepot",
     "description": "飞牛 fnOS 第三方应用仓库：V2 应用源，提供现有应用和 MySQL 原生管理工具。"
