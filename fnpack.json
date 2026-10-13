@@ -73,45 +73,48 @@
         }
       }
     },
-"fpk-zflie": {
-  "display_name": "ZFile",
-  "desc": "基于 Java 的在线网盘程序，可连接 S3、OneDrive、SharePoint、本地存储、FTP 等，支持文件预览。",
-  "platform": [
-    "x86",
-    "arm"
-  ],
-  "categories": [
-    "系统工具"
-  ],
-  "icon_url": "./fpk-zflie/ICON.PNG",
-  "readme_url": "./fpk-zflie/README.md",
-  "bug_report_url": "https://github.com/moxyis/FnDepot/issues",
-  "maintainer": "moxyis",
-  "maintainer_url": "https://github.com/moxyis",
-  "run_as": "package",
-  "install_type": "root",
-  "is_docker": false,
-  "service_port": "",
-  "preview_urls": [
-    "./fpk-zflie/Preview/gallery.png",
-    "./fpk-zflie/Preview/login.png",
-    "./fpk-zflie/Preview/page-setting.png"
-  ],
-  "releases": {
-    "5.1.0": {
-      "changelog": "ZFile 官方 fnOS 5.1.0 版本，提供 x86 和 ARM 双架构原生 FPK 安装包。",
-      "packages": {
-        "x86": {
-          "download_url": "./fpk-zflie/x86/zfile-pro-5.1.0-fnos-x86.fpk"
-        },
-        "arm": {
-          "download_url": "./fpk-zflie/arm/zfile-pro-5.1.0-fnos-arm.fpk"
+    "fpk-zflie": {
+      "display_name": "ZFile",
+      "desc": "基于 Java 的在线网盘程序，可连接 S3、OneDrive、SharePoint、本地存储、FTP 等，支持文件预览。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "系统工具"
+      ],
+      "icon_url": "./fpk-zflie/ICON.PNG",
+      "readme_url": "./fpk-zflie/README.md",
+      "bug_report_url": "https://github.com/moxyis/FnDepot/issues",
+      "maintainer": "moxyis",
+      "maintainer_url": "https://github.com/moxyis",
+      "run_as": "package",
+      "install_type": "root",
+      "is_docker": false,
+      "service_port": "",
+      "preview_urls": [
+        "./fpk-zflie/Preview/gallery.png",
+        "./fpk-zflie/Preview/login.png",
+        "./fpk-zflie/Preview/page-setting.png"
+      ],
+      "releases": {
+        "5.1.0": {
+          "changelog": "ZFile 官方 fnOS FPK 5.1.0",
+          "packages": {
+            "x86": {
+              "download_url": "./fpk-zflie/x86/fpk-zflie-x86-v5.1.0.fpk",
+              "size": 72215050,
+              "sha256": "e0bd564eecadad67b4a416ac586f10360b8bbd38cbcd6d91feb15cb2c4ab5d7c"
+            },
+            "arm": {
+              "download_url": "./fpk-zflie/arm/fpk-zflie-arm-v5.1.0.fpk",
+              "size": 74200794,
+              "sha256": "2d73d3debf8e0e472ea2087e1d54647e780ebfc697644483a348c1eb319cc537"
+            }
+          }
         }
       }
-    }
-  }
-}
-,
+    },
     "fpk-panindex": {
       "display_name": "PanIndex",
       "desc": "简易网盘目录列表，支持本地目录、天翼云盘、阿里云盘、115 网盘、OneDrive 等存储。原应用说明标注默认账户 admin / PanIndex，首次登录请修改。",
