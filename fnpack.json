@@ -70,6 +70,16 @@
               "size": 19830
             }
           }
+        },
+        "2.21": {
+          "changelog": "自动构建更新至 2.21",
+          "packages": {
+            "all": {
+              "download_url": "./fpk-dnsmgr/versions/fpk-dnsmgr-v2.21.fpk",
+              "size": 19829,
+              "sha256": "92f8a5c6a34805fa1939a6f68f46b1e16d65ab101bb13d93fb57bd43ee357b24"
+            }
+          }
         }
       }
     },
