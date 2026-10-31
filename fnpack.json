@@ -40,6 +40,16 @@
               "sha256": "3e133aaa0f4f9f0fabff78d187e79a377298e9aa25a78940fd88229a408fcdb7"
             }
           }
+        },
+        "4.18.42": {
+          "changelog": "自动构建更新至 4.18.42",
+          "packages": {
+            "all": {
+              "download_url": "./fpk-napcatqq/versions/fpk-napcatqq-v4.18.42.fpk",
+              "size": 247312,
+              "sha256": "4d3d2a33cc02090f9e68e0b7f214ccc1f01c6bc950d5b645913ec390a691115e"
+            }
+          }
         }
       }
     },
