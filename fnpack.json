@@ -90,6 +90,16 @@
               "sha256": "92f8a5c6a34805fa1939a6f68f46b1e16d65ab101bb13d93fb57bd43ee357b24"
             }
           }
+        },
+        "2.22": {
+          "changelog": "自动构建更新至 2.22",
+          "packages": {
+            "all": {
+              "download_url": "./fpk-dnsmgr/versions/fpk-dnsmgr-v2.22.fpk",
+              "size": 19830,
+              "sha256": "841b7344ec99e6d686bcb0cefd172110ef91f07a99cc8da201b259d7fa331f2f"
+            }
+          }
         }
       }
     },
