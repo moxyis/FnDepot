@@ -157,6 +157,21 @@
               "sha256": "aeb2e8b260e5f0bc98ce2d025ec17ef9ee2fcf5500d1bd880562920a8c303091"
             }
           }
+        },
+        "5.1.2": {
+          "changelog": "ZFile 官方 fnOS FPK 5.1.2",
+          "packages": {
+            "x86": {
+              "download_url": "./fpk-zflie/x86/fpk-zflie-x86-v5.1.2.fpk",
+              "size": 88261389,
+              "sha256": "e384bd826151f97f3f6523ef2ed35f60223a99cb8d70749c189af985aca6259b"
+            },
+            "arm": {
+              "download_url": "./fpk-zflie/arm/fpk-zflie-arm-v5.1.2.fpk",
+              "size": 89720906,
+              "sha256": "70c6fc94b7f25ee754ee36d72e65e073278f7f8d8b9344e32aca133b9b6646b8"
+            }
+          }
         }
       }
     },
